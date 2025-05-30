@@ -8,6 +8,8 @@
 // @match        *://*.3cx.eu/*
 // @match        *://*.my3cx.be/*
 // @match        *://*.my3cx.eu/*
+// @updateURL   https://raw.githubusercontent.com/th0mas137/TM-3cxTrunkNumberCopy/refs/heads/main/TM-3cxTrunkNumberCopy.js
+// @downloadURL https://raw.githubusercontent.com/th0mas137/TM-3cxTrunkNumberCopy/refs/heads/main/TM-3cxTrunkNumberCopy.js
 // @grant        GM_notification
 // @grant        GM_addStyle
 // ==/UserScript==
